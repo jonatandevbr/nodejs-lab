@@ -9,4 +9,6 @@ Para maiores detalhes, acesse o post sobre este conteúdo: [AdonisJS - Instalaç
     npm init adonis-ts-app@latest
     node ace serve --watch
 
+## Tutorial em Vídeo
+
 </center>
